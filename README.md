@@ -1,6 +1,6 @@
 ## WebUI automation using cypress
-website for testing https://happydayshopping.com/
-  Automate Checkout feature
+mobile testing for https://happydayshopping.com/
+  1. Automate Checkout feature
   
 ## clone
 ```bash
